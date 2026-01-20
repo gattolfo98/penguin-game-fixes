@@ -7,7 +7,7 @@ Many games have a native Linux build, however sometimes it doesn't even start. T
 **Q:  Why not just use the Windows version with Proton?**  
 Well, there's no real reason - it's mainly for those who prefer using the native version. If you don't want to, just use Proton!
 
-## Organizzazione
+## Organization
 This repository is organized into folders. Each game has its own directory containing a .md document with a description, along with any other files needed for the fix.
 
 Feel free to contribute!
